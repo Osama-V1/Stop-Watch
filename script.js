@@ -68,7 +68,7 @@ resetButton.addEventListener("click", () => {
    sec = 0;
    min = 0;
    msecHTML.textContent = "0" + msec;
-   secHTML.textContent = "00" + sec;
+   secHTML.textContent = "0" + sec;
    minHTML.textContent = "0" + min;
 
 
